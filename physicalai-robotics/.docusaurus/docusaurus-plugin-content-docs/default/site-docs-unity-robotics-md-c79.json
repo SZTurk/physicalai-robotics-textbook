@@ -1,0 +1,28 @@
+{
+  "id": "unity-robotics",
+  "title": "Unity Robotics",
+  "description": "This section covers robotics simulation and development using Unity 3D and Unity Robotics tools.",
+  "source": "@site/docs/unity-robotics.md",
+  "sourceDirName": ".",
+  "slug": "/unity-robotics",
+  "permalink": "/docs/unity-robotics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/PhysicalAI/PhysicalAI_Robotics/tree/main/docs/unity-robotics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Unity Robotics"
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Gazebo Simulation",
+    "permalink": "/docs/gazebo"
+  },
+  "next": {
+    "title": "NVIDIA Isaac",
+    "permalink": "/docs/nvidia-isaac"
+  }
+}

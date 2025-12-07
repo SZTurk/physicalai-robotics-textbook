@@ -1,0 +1,24 @@
+{
+  "id": "real-world-projects",
+  "title": "Real-World Projects",
+  "description": "This section covers practical applications of robotics in real-world scenarios and industrial applications.",
+  "source": "@site/docs/real-world-projects.md",
+  "sourceDirName": ".",
+  "slug": "/real-world-projects",
+  "permalink": "/docs/real-world-projects",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/PhysicalAI/PhysicalAI_Robotics/tree/main/docs/real-world-projects.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "title": "Real-World Projects"
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "AI for Robotics",
+    "permalink": "/docs/ai-for-robotics"
+  }
+}

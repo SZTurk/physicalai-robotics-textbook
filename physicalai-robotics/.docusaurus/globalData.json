@@ -1,0 +1,180 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "foundations",
+          "docs": [
+            {
+              "id": "ai-for-robotics",
+              "path": "/docs/ai-for-robotics",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "foundations",
+              "path": "/docs/foundations",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "foundations/forward-kinematics",
+              "path": "/docs/foundations/forward-kinematics",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "foundations/history-of-robotics",
+              "path": "/docs/foundations/history-of-robotics",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "foundations/intro",
+              "path": "/docs/foundations/intro",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "foundations/inverse-kinematics",
+              "path": "/docs/foundations/inverse-kinematics",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "foundations/robot-dynamics",
+              "path": "/docs/foundations/robot-dynamics",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "foundations/test-features",
+              "path": "/docs/foundations/test-features",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "foundations/what-is-robotics",
+              "path": "/docs/foundations/what-is-robotics",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "gazebo",
+              "path": "/docs/gazebo",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro"
+            },
+            {
+              "id": "labs/advanced",
+              "path": "/docs/labs/advanced",
+              "sidebar": "labsSidebar"
+            },
+            {
+              "id": "labs/beginner",
+              "path": "/docs/labs/beginner",
+              "sidebar": "labsSidebar"
+            },
+            {
+              "id": "labs/intermediate",
+              "path": "/docs/labs/intermediate",
+              "sidebar": "labsSidebar"
+            },
+            {
+              "id": "nvidia-isaac",
+              "path": "/docs/nvidia-isaac",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "real-world-projects",
+              "path": "/docs/real-world-projects",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "reference/api-reference",
+              "path": "/docs/reference/api-reference",
+              "sidebar": "referenceSidebar"
+            },
+            {
+              "id": "reference/command-cheatsheet",
+              "path": "/docs/reference/command-cheatsheet",
+              "sidebar": "referenceSidebar"
+            },
+            {
+              "id": "reference/glossary",
+              "path": "/docs/reference/glossary",
+              "sidebar": "referenceSidebar"
+            },
+            {
+              "id": "ros2",
+              "path": "/docs/ros2",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "test-features",
+              "path": "/docs/test-features"
+            },
+            {
+              "id": "tutorial-basics/congratulations",
+              "path": "/docs/tutorial-basics/congratulations"
+            },
+            {
+              "id": "tutorial-basics/create-a-blog-post",
+              "path": "/docs/tutorial-basics/create-a-blog-post"
+            },
+            {
+              "id": "tutorial-basics/create-a-document",
+              "path": "/docs/tutorial-basics/create-a-document"
+            },
+            {
+              "id": "tutorial-basics/create-a-page",
+              "path": "/docs/tutorial-basics/create-a-page"
+            },
+            {
+              "id": "tutorial-basics/deploy-your-site",
+              "path": "/docs/tutorial-basics/deploy-your-site"
+            },
+            {
+              "id": "tutorial-basics/markdown-features",
+              "path": "/docs/tutorial-basics/markdown-features"
+            },
+            {
+              "id": "tutorial-extras/manage-docs-versions",
+              "path": "/docs/tutorial-extras/manage-docs-versions"
+            },
+            {
+              "id": "tutorial-extras/translate-your-site",
+              "path": "/docs/tutorial-extras/translate-your-site"
+            },
+            {
+              "id": "unity-robotics",
+              "path": "/docs/unity-robotics",
+              "sidebar": "textbookSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "textbookSidebar": {
+              "link": {
+                "path": "/docs/foundations",
+                "label": "Foundations"
+              }
+            },
+            "labsSidebar": {
+              "link": {
+                "path": "/docs/labs/beginner",
+                "label": "Beginner Labs"
+              }
+            },
+            "referenceSidebar": {
+              "link": {
+                "path": "/docs/reference/api-reference",
+                "label": "API Reference"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

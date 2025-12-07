@@ -1,0 +1,28 @@
+{
+  "id": "ai-for-robotics",
+  "title": "AI for Robotics",
+  "description": "This section covers artificial intelligence techniques applied to robotics, including perception, navigation, and planning.",
+  "source": "@site/docs/ai-for-robotics.md",
+  "sourceDirName": ".",
+  "slug": "/ai-for-robotics",
+  "permalink": "/docs/ai-for-robotics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/PhysicalAI/PhysicalAI_Robotics/tree/main/docs/ai-for-robotics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "AI for Robotics"
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "NVIDIA Isaac",
+    "permalink": "/docs/nvidia-isaac"
+  },
+  "next": {
+    "title": "Real-World Projects",
+    "permalink": "/docs/real-world-projects"
+  }
+}

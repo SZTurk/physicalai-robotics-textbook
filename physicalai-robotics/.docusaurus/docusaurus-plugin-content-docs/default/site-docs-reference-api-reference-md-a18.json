@@ -1,0 +1,24 @@
+{
+  "id": "reference/api-reference",
+  "title": "API Reference",
+  "description": "This section contains API documentation for various robotics frameworks and libraries.",
+  "source": "@site/docs/reference/api-reference.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/api-reference",
+  "permalink": "/docs/reference/api-reference",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/PhysicalAI/PhysicalAI_Robotics/tree/main/docs/reference/api-reference.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "API Reference"
+  },
+  "sidebar": "referenceSidebar",
+  "next": {
+    "title": "Command Cheatsheet",
+    "permalink": "/docs/reference/command-cheatsheet"
+  }
+}

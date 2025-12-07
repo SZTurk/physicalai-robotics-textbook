@@ -1,0 +1,28 @@
+{
+  "id": "foundations/robot-dynamics",
+  "title": "Robot Dynamics",
+  "description": "Robot dynamics studies the relationship between forces acting on a robot mechanism and the resulting motion. It's essential for robot control and simulation.",
+  "source": "@site/docs/foundations/robot-dynamics.md",
+  "sourceDirName": "foundations",
+  "slug": "/foundations/robot-dynamics",
+  "permalink": "/docs/foundations/robot-dynamics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/PhysicalAI/PhysicalAI_Robotics/tree/main/docs/foundations/robot-dynamics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "Robot Dynamics"
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Inverse Kinematics",
+    "permalink": "/docs/foundations/inverse-kinematics"
+  },
+  "next": {
+    "title": "ROS 2",
+    "permalink": "/docs/ros2"
+  }
+}

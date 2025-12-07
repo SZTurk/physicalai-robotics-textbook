@@ -1,0 +1,24 @@
+{
+  "id": "labs/beginner",
+  "title": "Beginner Labs",
+  "description": "This section contains hands-on lab exercises for beginners learning robotics concepts.",
+  "source": "@site/docs/labs/beginner.md",
+  "sourceDirName": "labs",
+  "slug": "/labs/beginner",
+  "permalink": "/docs/labs/beginner",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/PhysicalAI/PhysicalAI_Robotics/tree/main/docs/labs/beginner.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Beginner Labs"
+  },
+  "sidebar": "labsSidebar",
+  "next": {
+    "title": "Intermediate Labs",
+    "permalink": "/docs/labs/intermediate"
+  }
+}

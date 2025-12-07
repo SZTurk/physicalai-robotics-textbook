@@ -1,0 +1,28 @@
+{
+  "id": "nvidia-isaac",
+  "title": "NVIDIA Isaac",
+  "description": "This section covers NVIDIA Isaac robotics platform for AI-powered robotics applications.",
+  "source": "@site/docs/nvidia-isaac.md",
+  "sourceDirName": ".",
+  "slug": "/nvidia-isaac",
+  "permalink": "/docs/nvidia-isaac",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/PhysicalAI/PhysicalAI_Robotics/tree/main/docs/nvidia-isaac.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "NVIDIA Isaac"
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Unity Robotics",
+    "permalink": "/docs/unity-robotics"
+  },
+  "next": {
+    "title": "AI for Robotics",
+    "permalink": "/docs/ai-for-robotics"
+  }
+}

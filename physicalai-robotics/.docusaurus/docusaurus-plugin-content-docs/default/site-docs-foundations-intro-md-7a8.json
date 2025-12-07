@@ -1,0 +1,28 @@
+{
+  "id": "foundations/intro",
+  "title": "Foundations Introduction",
+  "description": "Welcome to the foundations section of the PhysicalAI Robotics textbook. This section covers the essential concepts that form the basis of all robotics systems.",
+  "source": "@site/docs/foundations/intro.md",
+  "sourceDirName": "foundations",
+  "slug": "/foundations/intro",
+  "permalink": "/docs/foundations/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/PhysicalAI/PhysicalAI_Robotics/tree/main/docs/foundations/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Foundations Introduction"
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Foundations",
+    "permalink": "/docs/foundations"
+  },
+  "next": {
+    "title": "Test Features",
+    "permalink": "/docs/foundations/test-features"
+  }
+}

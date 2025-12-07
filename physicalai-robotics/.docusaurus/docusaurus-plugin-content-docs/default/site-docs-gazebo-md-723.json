@@ -1,0 +1,28 @@
+{
+  "id": "gazebo",
+  "title": "Gazebo Simulation",
+  "description": "This section covers robot simulation using Gazebo, a powerful 3D simulation environment.",
+  "source": "@site/docs/gazebo.md",
+  "sourceDirName": ".",
+  "slug": "/gazebo",
+  "permalink": "/docs/gazebo",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/PhysicalAI/PhysicalAI_Robotics/tree/main/docs/gazebo.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Gazebo Simulation"
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "ROS 2",
+    "permalink": "/docs/ros2"
+  },
+  "next": {
+    "title": "Unity Robotics",
+    "permalink": "/docs/unity-robotics"
+  }
+}

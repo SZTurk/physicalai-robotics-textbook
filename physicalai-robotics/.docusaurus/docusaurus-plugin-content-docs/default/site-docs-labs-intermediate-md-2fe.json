@@ -1,0 +1,28 @@
+{
+  "id": "labs/intermediate",
+  "title": "Intermediate Labs",
+  "description": "This section contains hands-on lab exercises for intermediate learners.",
+  "source": "@site/docs/labs/intermediate.md",
+  "sourceDirName": "labs",
+  "slug": "/labs/intermediate",
+  "permalink": "/docs/labs/intermediate",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/PhysicalAI/PhysicalAI_Robotics/tree/main/docs/labs/intermediate.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Intermediate Labs"
+  },
+  "sidebar": "labsSidebar",
+  "previous": {
+    "title": "Beginner Labs",
+    "permalink": "/docs/labs/beginner"
+  },
+  "next": {
+    "title": "Advanced Labs",
+    "permalink": "/docs/labs/advanced"
+  }
+}

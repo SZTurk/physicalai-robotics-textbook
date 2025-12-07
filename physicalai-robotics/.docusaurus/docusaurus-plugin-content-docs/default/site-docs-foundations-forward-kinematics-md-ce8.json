@@ -1,0 +1,28 @@
+{
+  "id": "foundations/forward-kinematics",
+  "title": "Forward Kinematics",
+  "description": "Forward kinematics is the process of determining the position and orientation of the end-effector (typically the robot's tool or hand) based on the known joint angles.",
+  "source": "@site/docs/foundations/forward-kinematics.md",
+  "sourceDirName": "foundations",
+  "slug": "/foundations/forward-kinematics",
+  "permalink": "/docs/foundations/forward-kinematics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/PhysicalAI/PhysicalAI_Robotics/tree/main/docs/foundations/forward-kinematics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Forward Kinematics"
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "History of Robotics",
+    "permalink": "/docs/foundations/history-of-robotics"
+  },
+  "next": {
+    "title": "Inverse Kinematics",
+    "permalink": "/docs/foundations/inverse-kinematics"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "foundations/inverse-kinematics",
+  "title": "Inverse Kinematics",
+  "description": "Inverse kinematics (IK) is the process of determining the joint angles required to achieve a desired position and orientation of the end-effector.",
+  "source": "@site/docs/foundations/inverse-kinematics.md",
+  "sourceDirName": "foundations",
+  "slug": "/foundations/inverse-kinematics",
+  "permalink": "/docs/foundations/inverse-kinematics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/PhysicalAI/PhysicalAI_Robotics/tree/main/docs/foundations/inverse-kinematics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "Inverse Kinematics"
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Forward Kinematics",
+    "permalink": "/docs/foundations/forward-kinematics"
+  },
+  "next": {
+    "title": "Robot Dynamics",
+    "permalink": "/docs/foundations/robot-dynamics"
+  }
+}

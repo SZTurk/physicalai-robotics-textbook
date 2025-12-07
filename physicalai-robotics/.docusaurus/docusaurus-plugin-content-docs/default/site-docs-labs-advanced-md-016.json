@@ -1,0 +1,24 @@
+{
+  "id": "labs/advanced",
+  "title": "Advanced Labs",
+  "description": "This section contains hands-on lab exercises for advanced robotics practitioners.",
+  "source": "@site/docs/labs/advanced.md",
+  "sourceDirName": "labs",
+  "slug": "/labs/advanced",
+  "permalink": "/docs/labs/advanced",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/PhysicalAI/PhysicalAI_Robotics/tree/main/docs/labs/advanced.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Advanced Labs"
+  },
+  "sidebar": "labsSidebar",
+  "previous": {
+    "title": "Intermediate Labs",
+    "permalink": "/docs/labs/intermediate"
+  }
+}

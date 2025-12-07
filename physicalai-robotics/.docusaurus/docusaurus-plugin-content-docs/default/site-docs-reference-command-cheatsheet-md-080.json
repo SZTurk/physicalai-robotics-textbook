@@ -1,0 +1,28 @@
+{
+  "id": "reference/command-cheatsheet",
+  "title": "Command Cheatsheet",
+  "description": "This section contains quick reference guides for common robotics commands and tools.",
+  "source": "@site/docs/reference/command-cheatsheet.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/command-cheatsheet",
+  "permalink": "/docs/reference/command-cheatsheet",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/PhysicalAI/PhysicalAI_Robotics/tree/main/docs/reference/command-cheatsheet.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Command Cheatsheet"
+  },
+  "sidebar": "referenceSidebar",
+  "previous": {
+    "title": "API Reference",
+    "permalink": "/docs/reference/api-reference"
+  },
+  "next": {
+    "title": "Glossary",
+    "permalink": "/docs/reference/glossary"
+  }
+}

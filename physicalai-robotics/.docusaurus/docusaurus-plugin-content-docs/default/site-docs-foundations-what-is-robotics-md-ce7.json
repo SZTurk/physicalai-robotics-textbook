@@ -1,0 +1,28 @@
+{
+  "id": "foundations/what-is-robotics",
+  "title": "What is Robotics?",
+  "description": "Robotics is an interdisciplinary field that combines mechanical engineering, electrical engineering, computer science, and other disciplines to design, construct, operate, and use robots.",
+  "source": "@site/docs/foundations/what-is-robotics.md",
+  "sourceDirName": "foundations",
+  "slug": "/foundations/what-is-robotics",
+  "permalink": "/docs/foundations/what-is-robotics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/PhysicalAI/PhysicalAI_Robotics/tree/main/docs/foundations/what-is-robotics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "What is Robotics?"
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Test Features",
+    "permalink": "/docs/foundations/test-features"
+  },
+  "next": {
+    "title": "History of Robotics",
+    "permalink": "/docs/foundations/history-of-robotics"
+  }
+}

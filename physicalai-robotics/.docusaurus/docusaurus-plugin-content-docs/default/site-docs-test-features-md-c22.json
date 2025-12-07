@@ -1,0 +1,19 @@
+{
+  "id": "test-features",
+  "title": "Test Features",
+  "description": "This document tests all the features we've implemented for the PhysicalAI Robotics textbook.",
+  "source": "@site/docs/test-features.md",
+  "sourceDirName": ".",
+  "slug": "/test-features",
+  "permalink": "/docs/test-features",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/PhysicalAI/PhysicalAI_Robotics/tree/main/docs/test-features.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Test Features"
+  }
+}

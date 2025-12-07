@@ -1,0 +1,28 @@
+{
+  "id": "foundations/test-features",
+  "title": "Test Features",
+  "description": "This document tests all the features we've implemented for the PhysicalAI Robotics textbook.",
+  "source": "@site/docs/foundations/test-features.md",
+  "sourceDirName": "foundations",
+  "slug": "/foundations/test-features",
+  "permalink": "/docs/foundations/test-features",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/PhysicalAI/PhysicalAI_Robotics/tree/main/docs/foundations/test-features.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Test Features"
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Foundations Introduction",
+    "permalink": "/docs/foundations/intro"
+  },
+  "next": {
+    "title": "What is Robotics?",
+    "permalink": "/docs/foundations/what-is-robotics"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "reference/glossary",
+  "title": "Glossary",
+  "description": "This section contains definitions of key terms used in robotics and autonomous systems.",
+  "source": "@site/docs/reference/glossary.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/glossary",
+  "permalink": "/docs/reference/glossary",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/PhysicalAI/PhysicalAI_Robotics/tree/main/docs/reference/glossary.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Glossary"
+  },
+  "sidebar": "referenceSidebar",
+  "previous": {
+    "title": "Command Cheatsheet",
+    "permalink": "/docs/reference/command-cheatsheet"
+  }
+}
