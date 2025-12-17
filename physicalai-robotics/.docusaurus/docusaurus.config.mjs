@@ -29,8 +29,8 @@ export default {
     "experimental_router": "browser"
   },
   "url": "https://physicalai-robotics.org",
-  "baseUrl": "/",
-  "organizationName": "PhysicalAI",
+  "baseUrl": "/physicalai-robotics-textbook/",
+  "organizationName": "SZTurk",
   "projectName": "PhysicalAI_Robotics",
   "onBrokenLinks": "throw",
   "markdown": {
