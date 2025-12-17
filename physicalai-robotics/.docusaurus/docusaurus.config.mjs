@@ -28,10 +28,10 @@ export default {
     },
     "experimental_router": "browser"
   },
-  "url": "https://physicalai-robotics.org",
+  "url": "https://szturk.github.io",
   "baseUrl": "/physicalai-robotics-textbook/",
   "organizationName": "SZTurk",
-  "projectName": "PhysicalAI_Robotics",
+  "projectName": "physicalai-robotics-textbook",
   "onBrokenLinks": "throw",
   "markdown": {
     "mermaid": true,
